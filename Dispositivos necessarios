@@ -1,0 +1,8 @@
+Para esse código, os seguintes dispositivos são necessários:
+
+Sensor de temperatura DS18B20 - para medir a temperatura
+Resistor de 4.7K ohm - necessário para a comunicação do sensor DS18B20 com o microcontrolador
+Display LCD 16x2 com interface I2C - para exibir a temperatura e a temperatura desejada
+Potenciômetros de ajuste - para ajustar a temperatura desejada
+Dois relés - um para controlar o sistema de refrigeração e outro para controlar o ciclo de degelo
+Microcontrolador - como um Arduino ou similar, para executar o código e controlar os dispositivos mencionados acima.
